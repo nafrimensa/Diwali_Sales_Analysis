@@ -1,4 +1,6 @@
-Diwali Sales Data Analysis
+**Diwali Sales Data Analysis**
+
+
 This project analyzes the sales data for Diwali. The dataset includes customer demographics, purchase behavior, and sales information across various product categories. The analysis provides insights into factors such as gender, age group, marital status, occupation, and product categories that influence customer behavior.
 
 Steps and Analysis:
